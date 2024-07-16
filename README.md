@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Christopher Kennedy</h1>
-<h3 align="center">A Front End Developer from New York</h3>
+<h3 align="center">A Full Stack Developer from New York</h3>
 
 - 🔭 I’m currently working on **A website for a barber shop**
 
