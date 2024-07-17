@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A website for a barber shop**
 
-- 🌱 I’m currently learning **Node.js, React, MongoDB, JavaScript**
+- 🌱 I’m currently learning **Node.js, React, MongoDB and JavaScript**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
