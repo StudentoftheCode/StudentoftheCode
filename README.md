@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js, React, Express and JavaScript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, APIs and Node.js**
+- 💬 Ask me about **HTML, CSS, JavaScript, APIs, React and Node.js**
 
 - 📫 How to reach me **Christopher.kennedy0312@gmail.com**
 
