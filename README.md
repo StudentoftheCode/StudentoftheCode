@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some client websites and some apps.
 
-- 🌱 I’m currently learning **Node.js, React, Express and JavaScript**
+- 🌱 I’m currently learning **Node.js, React, Express, JavaScript and MongoDB**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, APIs, React and Node.js**
 
