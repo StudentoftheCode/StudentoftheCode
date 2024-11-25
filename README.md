@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Christopher.kennedy0312@gmail.com**
 
-- ⚡ Fun fact **I've played just about every sport and I'm a spicy food fan**
+- ⚡ Fun fact **I've played many different sports and I'm a spicy food fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
