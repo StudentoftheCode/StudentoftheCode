@@ -1,7 +1,7 @@
 ##
 
 <h1 align="center">Hi, I'm Christopher Kennedy</h1>
-<h3 align="center">A Full Stack Developer from NYC </h3>
+<h3 align="center">A Full Stack Developer from New York City </h3>
 
 - 🔭 I’m currently working on some websites and some CRUD apps.
 
