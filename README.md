@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** MERN stack and JavaScript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, APIs, React and Node.js**
+- 💬 Ask me about **HTML, CSS, JavaScript, APIs, MongoDB, React and Node.js**
 
 - 📫 How to reach me **Christopher.kennedy0312@gmail.com**
 
