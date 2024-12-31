@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some websites and some CRUD apps.
 
-- 🌱 I’m currently learning ** MERN stack and JavaScript**
+- 🌱 I’m currently learning ** how to build APIs, MERN stack and JavaScript**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, APIs and MERN stack**
 
