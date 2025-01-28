@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** how to build APIs, MERN stack, EJS and JavaScript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, APIs and MERN stack**
+- 💬 Ask me about **HTML, CSS, JavaScript, APIs, EJS and MERN stack**
 
 - 📫 How to reach me **Christopher.kennedy0312@gmail.com**
 
