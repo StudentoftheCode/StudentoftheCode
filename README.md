@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Christopher.kennedy0312@gmail.com**
 
-- ⚡ Fun fact **I'm a gamer who also enjoys anime and sports**
+- ⚡ Fun fact **I'm a huge sports fan who enjoys gaming in free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
