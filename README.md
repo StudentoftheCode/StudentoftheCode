@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on some websites/admin sites and a full-stack app.
 
-- 🌱 I’m currently learning ** User-Authentication, MVC, JavaScript, APIs, MERN and EJS**
+- 🌱 I’m currently learning ** User-Authentication, MVC, JavaScript, APIs and MERN**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, APIs and MERN**
+- 💬 Ask me about **HTML, CSS, JavaScript, EJS, APIs and MERN**
 
 - 📫 How to reach me **Christopher.kennedy0312@gmail.com**
 
