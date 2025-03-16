@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some websites/admin sites and a full-stack app.
 
-- 🌱 I’m currently learning ** User-Authentication, MVC, JavaScript, APIs and MERN**
+- 🌱 I’m currently learning ** Passport, MVC, JavaScript, APIs and MERN**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, EJS, APIs and MERN**
 
