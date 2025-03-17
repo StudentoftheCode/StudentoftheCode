@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** Passport, MVC, JavaScript, APIs and MERN**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, EJS, APIs and MERN**
+- 💬 Ask me about **HTML, CSS, JavaScript, EJS, APIs and MERN stack**
 
 - 📫 How to reach me **Christopher.kennedy0312@gmail.com**
 
