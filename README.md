@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on full-stack apps and UX designs for small businesses.
 
-- 🌱 I’m currently learning ** Passport, MVC, APIs and MERN.**
+- 🌱 I’m currently learning ** Passport, MVC, and MERN.**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, EJS, APIs and MERN.**
 
