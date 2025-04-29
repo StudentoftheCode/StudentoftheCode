@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Christopher Kennedy</h1>
 <h3 align="center">A Full Stack Developer from NYC  </h3>
 
-- 🔭 I’m currently working on full-stack apps and UX designs for small businesses.
+- 🔭 I’m currently working on full-stack applications and UX designs for small businesses.
 
 - 🌱 I’m currently learning ** Passport, MVC, and MERN.**
 
