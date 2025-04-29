@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, EJS, APIs and MERN.**
 
-- 📫 How to reach me **christopher.kennedy0312@gmail.com**
+- 📫 How to reach me **christopher.kennedy0312@gmail.com.**
 
 - ⚡ Fun fact **I'm a big sports fan who enjoys gaming and watching anime in my free time.**
 
