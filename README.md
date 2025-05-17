@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on full-stack applications.
 
-- 🌱 I’m currently learning ** MVC and MERN.**
+- 🌱 I’m currently learning ** Agile Stories, MVC and MERN.**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, EJS, APIs and MERN.**
 
