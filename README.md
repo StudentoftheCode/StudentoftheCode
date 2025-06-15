@@ -3,11 +3,11 @@
 <h1 align="center">Hi, I'm Christopher Kennedy</h1>
 <h3 align="center">A Full Stack Web Developer from NYC  </h3>
 
-- 🔭 I’m currently working on an admin site for small business and websites.
+- 🔭 I’m currently working on an admin site for small business, websites and a mock social networking app.
 
 - 🌱 I’m currently learning ** MVC.**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, EJS and MERN.**
+- 💬 Ask me about **HTML, CSS Tailwind, JavaScript, EJS and MERN.**
 
 - 📫 How to reach me **christopher.kennedy0312@gmail.com.**
 
