@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an admin site for small business and websites.
 
-- 🌱 I’m currently learning ** MVC .**
+- 🌱 I’m currently learning ** MVC.**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, EJS and MERN.**
 
