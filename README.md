@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on interview questions, an admin site for small business, websites and a mock social networking site.
 
-- 🌱 I’m currently learning ** MVC.**
+- 🌱 I’m currently learning **MVC.**
 
-- 💬 Ask me about **HTML, CSS Tailwind, JavaScript, EJS and MERN.**
+- 💬 Ask me about **HTML5, CSS Tailwind, JavaScript, EJS and MERN.**
 
 - 📫 How to reach me **christopher.kennedy0312@gmail.com.**
 
