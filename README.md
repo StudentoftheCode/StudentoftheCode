@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack.**
 
-- 💬 Ask me about **HTML5, CSS, JavaScript, EJS and MERN.**
+- 💬 Ask me about **HTML5, CSS, JavaScript, Passport, EJS and MERN.**
 
 - 📫 How to reach me **christopher.kennedy0312@gmail.com.**
 
