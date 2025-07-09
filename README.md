@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on interview questions, Codewars questions, an admin site for small business and a mock social networking site.
 
-- 🌱 I’m currently learning **MERN stack.**
+- 🌱 I’m currently learning ** MERN stack.**
 
 - 💬 Ask me about ** HTML5, CSS, JavaScript, Passport, EJS and MERN stack.**
 
