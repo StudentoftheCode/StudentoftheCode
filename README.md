@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ** HTML5, CSS, JavaScript, Passport, EJS and MERN stack.**
 
-- 📫 How to reach me **christopher.kennedy0312@gmail.com.**
+- 📫 How to reach me ** christopher.kennedy0312@gmail.com.**
 
 - ⚡ Fun fact about myself is ** I'm a sports fan who enjoys gaming and watching anime in my free time.**
 
