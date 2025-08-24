@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on interview questions, an admin site for small business and a mock social networking site.
 
-- 🌱 I’m currently learning ** data structures**
+- 🌱 I’m currently learning ** data structures and algorithms. **
 
 - 💬 Ask me about ** HTML5, CSS, JavaScript, Passport, EJS and MERN stack. **
 
