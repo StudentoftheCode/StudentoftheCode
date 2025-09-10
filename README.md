@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** data structures and algorithms. **
 
-- 💬 Ask me about ** HTML5, CSS, JavaScript, Passport, EJS and MERN stack. **
+- 💬 Ask me about ** HTML5, CSS, JavaScript, Passport, EJS, data structures and MERN stack. **
 
 - 📫 How to reach me ** christopher.kennedy0312@gmail.com **
 
