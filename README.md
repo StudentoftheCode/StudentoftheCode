@@ -3,7 +3,7 @@
 <h1 align="center"> Hi, I'm Christopher Kennedy </h1>
 <h3 align="center"> A Full Stack Web Developer from NYC </h3>
 
-- 🔭 I’m currently working on admin sites and websites for small businesses, and a mock social networking site.  
+- 🔭 I’m currently working on an admin site mechanics.
 
 - 🌱 I’m currently learning ** data structures and algorithms.**
 
