@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on memorial sites with QR codes.  
 
-- 🌱 I’m currently learning ** data structures and algorithms. **
+- 🌱 I’m currently learning ** about SQLi, data structures and algorithms. **
 
 - 💬 Ask me about ** HTML5, CSS, JavaScript, Passport, EJS, APIs, data structures and MERN stack. **
 
