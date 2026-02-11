@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** about SQLi and UNION attacks, data structures and algorithms. **
 
-- 💬 Ask me about ** HTML5, CSS, JavaScript, Passport, EJS, APIs, data structures and MERN stack. Or feel free**
+- 💬 Ask me about ** HTML5, CSS, JavaScript, Passport, EJS, APIs, data structures and MERN stack. Or feel free to check out my**
 
 - 📫 How to reach me ** christopher.kennedy0312@gmail.com and LinkedIn. **
 
