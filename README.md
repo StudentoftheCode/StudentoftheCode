@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on memorial sites with QR codes.  
 
-- 🌱 I’m currently learning ** about SQLi, Blind SQL injections and UNION attacks, data structures and algorithms. **
+- 🌱 I’m currently learning ** about SQL injections, Blind SQL injections and UNION attacks, data structures and algorithms. **
 
 - 💬 Ask me about ** HTML5, CSS, JavaScript, Passport, EJS, APIs, data structures and MERN stack. Or feel free to check out my apps on my portfolio!**
 
