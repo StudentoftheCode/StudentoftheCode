@@ -3,9 +3,9 @@
 <h1 align="center"> Hi, I'm Christopher Kennedy </h1>
 <h3 align="center"> A Full Stack Web Developer from NYC </h3>
 
-- 🔭 I’m currently working on memorial sites and LeetCode.
+- 🔭 I’m currently working on memorial sites.
 
-- 🌱 I’m currently learning ** about data structures and algorithms, SQL injections, Blind SQL injections and UNION attacks. **
+- 🌱 I’m currently learning ** about data structures and algorithms, LeetCode, SQL injections, Blind SQL injections and UNION attacks. **
 
 - 💬 Ask me about ** HTML5, CSS, JavaScript, Passport, EJS, APIs, data structures and MERN stack. Feel free to check out my apps on my portfolio!**
 
