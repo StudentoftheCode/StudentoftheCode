@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on business sites and an anime simulation app.
 
-- 🌱 I’m currently learning ** about data structures and algorithms, LeetCode, SQL injections, Blind SQL injections and UNION attacks. **
+- 🌱 I’m currently learning ** about data structures and algorithms, SQL injections, Blind SQL injections and UNION attacks. **
 
 - 💬 Ask me about ** HTML5, CSS, JavaScript, Passport, EJS, APIs, data structures and MERN stack. Feel free to check out my apps on my portfolio!**
 
