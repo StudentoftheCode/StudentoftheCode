@@ -11,7 +11,7 @@
 
 - 📫 How to reach me ** christopher.kennedy0312@gmail.com and LinkedIn. **
 
-- ⚡ Fun fact about myself is ** I'm a sports fan who enjoys gaming and watching anime. **
+- ⚡ Fun fact about myself is ** I'm a sports fan who enjoys gaming, watching anime and playing basketball. **
 
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
