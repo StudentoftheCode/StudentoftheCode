@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a EHR replica and a hero simulator. 
 
-- 🌱 I’m currently learning ** about SQL injections, Blind SQL injections and UNION attacks. **
+- 🌱 I’m currently learning ** about SQL injections and UNION attacks. **
 
 - 💬 Ask me about ** HTML5, CSS, JavaScript, Passport, EJS, APIs, data structures and MERN stack. Feel free to check out my apps on my portfolio! **
   
